@@ -1,34 +1,35 @@
-ミヤンマー
-かんこく
-タイ
-ブラジル
-からきました
-くる／きます
-わたし
-はじめまして
-（どうぞ）よろしくおねがいします
-インドネシア
-なまえ／おなまえ
-しゅっしん／ごしゅっしん
-べトナム
-ハノイ
-くに／おくに
-どちら
-フエ
-カンボジア
-みなさん
-ともだち
-おなじ
-かいしゃ
-えーと
-そうですか
-どちらからですか？
-～からですか？
-こくせき
-せえねんがっぴ
-せいれき
-～ねん
-～がつ
+ミヤンマー Myanmar
+かんこく- South Korea
+タイ- Thiland
+ブラジル- Brazil
+~からきました- Came from~
+くる／きます- To come
+わたし- I/myself
+はじめまして- Hello.(When meeting someone for the first time)
+（どうぞ）よろしくおねがいします- Nice to meet you
+インドネシア- Indonesia
+なまえ／おなまえ- Name
+しゅっしん／ごしゅっしん- Hometown/(Your) hometown
+べトナム- Vietnam
+ハノイ- Hanoi
+くに／おくに- Country/(Your) country
+どちら- Where(Polite espression)
+フエ- Hue
+カンボジア- Combodia
+みなさん- All of you
+ともだち- Friend
+おなじ- Same
+かいしゃ- Company
+えーと- Er(Expresses that speaker is thinking)
+そうですか- I see
+どちらからですか？- Where are you from?
+～からですか?- Are you from~?
+こくせき- Nationality
+せえねんがっぴ- Date of birth
+せいれき- Gregorian calendar
+～ねん- Year
+～がつ- Month of the year
+～にち‐　Day of the month
 じゅうしょ- Address
 でんわばんごう- Telephone Number
 メエル- Email
