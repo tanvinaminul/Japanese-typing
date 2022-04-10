@@ -24,3 +24,12 @@
 そうですか
 どちらからですか？
 ～からですか？
+こくせき
+せえねんがっぴ
+せいれき
+～ねん
+～がつ
+じゅうしょ- Address
+でんわばんごう- Telephone Number
+メエル- Email
+もうしこみしょ- Application form
