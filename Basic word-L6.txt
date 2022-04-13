@@ -1,0 +1,32 @@
+ハンバーガー　Hamburger
+~バーガー Burger
+ダブル- Double
+チーズ- Cheese
+てリやき- Teriyaki
+チキン- Chicken
+フィッシュ- Fish
+たんぴん- Single Item
+セット- Set
+フライドポテ- French Fries
+エス- Small
+エム- Medium
+エル- Large
+デザート- Dessert
+アイスクリーム- Ice cream
+アップルパイ- Apple pie
+ドリンク- Drink
+ホットコーヒー Hot coffee
+アイスコーヒー Iced coffee
+ウーロンちゃ- Oolong tea
+コカコーラ- Coca-Cola
+サイズ- Size
+～ください- Give me~
+テイクアウトで- Take out
+ここで- Eat in, please
+～にします- I'll have
+うーん- Well
+おいしいです- Delicious
+さしみ- Sashimi
+からあげ- Karaage
+やきとリ- Yakitori
+えだまめ- Edamame
